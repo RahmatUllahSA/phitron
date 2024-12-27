@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "04.C": "cpp",
+        "1.C": "cpp",
+        "01.C": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "java.debug.settings.onBuildFailureProceed": true
+}
